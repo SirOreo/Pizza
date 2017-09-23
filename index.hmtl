@@ -6,8 +6,8 @@
 <body>
 	<h1>The Pizza Website</h1>
 	<h3>The site dedicated to pizzas, with photos of pizza, recipes for new pizzas and more.</h3>
-	<p>
+	
 	<img src="https://static.pexels.com/photos/2232/vegetables-italian-pizza-restaurant.jpg" width="981" height="657">
-	Amazing, sizzling, delicious pizza. 10/10</p>
+	
 </body>
 </html>
